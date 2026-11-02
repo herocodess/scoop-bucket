@@ -1,5 +1,5 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "description": "Put idle projects away, get your disk back.",
     "homepage": "https://github.com/herocodess/mothball",
     "license": "MIT",
@@ -9,12 +9,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/herocodess/mothball/releases/download/v0.1.4/Mothball-0.1.4-windows-x64.zip",
-            "hash": "01b88c0171786ad7ef5fbd252caeb6aa2a25d8ade00a8ebe5a673475d578bff2"
+            "url": "https://github.com/herocodess/mothball/releases/download/v0.1.5/Mothball-0.1.5-windows-x64.zip",
+            "hash": "b93a273a235783bccffd9895ebba74dcc822cb3c3e37c2c03f51333153352a97"
         },
         "arm64": {
-            "url": "https://github.com/herocodess/mothball/releases/download/v0.1.4/Mothball-0.1.4-windows-arm64.zip",
-            "hash": "842475d689cc3b4e99fa112b55acbfad15fc5d1774dcbf01f44de04e55371983"
+            "url": "https://github.com/herocodess/mothball/releases/download/v0.1.5/Mothball-0.1.5-windows-arm64.zip",
+            "hash": "f815a190c0504d80004978f57bbed9e3d99453d801fdaa998ffc888cf4f065f8"
         }
     },
     "bin": "bin\\mothball.exe",
